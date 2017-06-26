@@ -1,7 +1,7 @@
 require "formula"
 
 class LiquidDsp < Formula
-  desc "digital signal processing library for software-defined radios library"
+  desc "digital signal processing library for software-defined radios"
   homepage "http://liquidsdr.org/"
   head "https://github.com/jgaeddert/liquid-dsp.git"
   url "https://github.com/jgaeddert/liquid-dsp/archive/v1.3.0.tar.gz"
